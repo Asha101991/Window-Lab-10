@@ -1,0 +1,22 @@
+windows-lab-10/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── setup-guide.md
+│   ├── networking.md
+│   └── troubleshooting.md
+│
+├── scripts/
+│   ├── post-install.ps1
+│   ├── install-chocolatey.ps1
+│   └── system-info.ps1
+│
+├── virtualbox/
+│   ├── vm-specifications.md
+│   └── export-notes.md
+│
+└── screenshots/
+    └── .gitkeep
