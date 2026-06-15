@@ -1,0 +1,9 @@
+*.iso
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.log
+
+.vscode/
+.idea/
